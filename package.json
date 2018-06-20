@@ -1,0 +1,24 @@
+{
+  "name": "firstproyectnode",
+  "version": "1.0.0",
+  "description": "Server for node",
+  "main": "index.js",
+  "dependencies": {
+    "node": "^10.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fgcoppola/FirstProyectNode.git"
+  },
+  "author": "Federico Coppola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fgcoppola/FirstProyectNode/issues"
+  },
+  "homepage": "https://github.com/fgcoppola/FirstProyectNode#readme"
+}
